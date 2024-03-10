@@ -32,19 +32,19 @@ CampusFlow is your ultimate solution to navigate through the bustling college ca
 ## Meet Our Team
 
 ### Neeraj Nemiraj (Developer)
-![Neeraj Nemiraj](https://cdn.discordapp.com/attachments/1079319188524503041/1214891260620447775/Neeraj.jpeg?ex=65fac2a8&is=65e84da8&hm=f6a6fbf6705da0749a94ee9d031e58c6b2d06c5609a9640ceb036a31eebeb009&)
+![Neeraj Nemiraj](https://cdn.discordapp.com/attachments/1079319188524503041/1214891260620447775/Neeraj.jpeg?ex=65fac2a8&is=65e84da8&hm=f6a6fbf6705da0749a94ee9d031e58c6b2d06c5609a9640ceb036a31eebeb009&) {: .rounded-circle }
 - *Role*: Frontend Developer
 
 ### Pratham P Shetty (Developer)
-![Pratham P Shetty](https://cdn.discordapp.com/attachments/1079319188524503041/1214891260935147560/Pratham.jpeg?ex=65fac2a8&is=65e84da8&hm=e70377263c0843547361a7936caf56aae07afa97f142758e6f91aed682665554&)
+![Pratham P Shetty](https://cdn.discordapp.com/attachments/1079319188524503041/1214891260935147560/Pratham.jpeg?ex=65fac2a8&is=65e84da8&hm=e70377263c0843547361a7936caf56aae07afa97f142758e6f91aed682665554&) {: .rounded-circle }
 - *Role*: Backend Developer
 
 ### Sachin Dsilva (Developer)
-![Sachin Dsilva](https://cdn.discordapp.com/attachments/1079319188524503041/1214891260175843408/Sachin.jpeg?ex=65fac2a8&is=65e84da8&hm=3a714e917a8d30cd71e08442e9612948b6be21203adbd5c2480fc8c1c133a21e&)
+![Sachin Dsilva](https://cdn.discordapp.com/attachments/1079319188524503041/1214891260175843408/Sachin.jpeg?ex=65fac2a8&is=65e84da8&hm=3a714e917a8d30cd71e08442e9612948b6be21203adbd5c2480fc8c1c133a21e&) {: .rounded-circle }
 - *Role*: Full Stack Developer
 
 ### Praneeth (Developer)
-![Praneeth](https://cdn.discordapp.com/attachments/1079319188524503041/1214891261593387018/Praneeth.jpeg?ex=65fac2a8&is=65e84da8&hm=dfea9a490c22149cab2f129dfd930e37b6599499ddbee60c38cb145b0855ddf3&)
+![Praneeth](https://cdn.discordapp.com/attachments/1079319188524503041/1214891261593387018/Praneeth.jpeg?ex=65fac2a8&is=65e84da8&hm=dfea9a490c22149cab2f129dfd930e37b6599499ddbee60c38cb145b0855ddf3&) {: .rounded-circle }
 - *Role*: UI/UX Designer
 
 ## Installation
