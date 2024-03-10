@@ -14,21 +14,6 @@ CampusFlow is your ultimate solution to navigate through the bustling college ca
 
 - **Meet Our Team**: Get to know the talented developers behind CampusFlow. Learn about their expertise and dedication in delivering high-quality software solutions.
 
-## Testimonials
-
-### Nipun Hegde (Student)
-![Nipun Hegde](https://cdn.discordapp.com/attachments/1079319188524503041/1214891259626528809/Nipun.jpeg?ex=65fac2a7&is=65e84da7&hm=cb087f3dd55167d2336a10643cc81103c7b8105365a9e93a10229fa84578d0d0&)
-"Goodbye, campus confusion! CampusFlow became my saving grace! It helped me find classrooms, access course materials, and understand local bus routes."
-
-### Karthik Vignesh (Student)
-![Karthik Vignesh](https://cdn.discordapp.com/attachments/1079319188524503041/1214891259278139392/Karthik.jpeg?ex=65fac2a7&is=65e84da7&hm=26c23f03cc5bc982f1b33a70435521ea73e18d9abe2d9fee16e6f8fe9d99b5e9&)
-"Juggling classes, clubs, and a part-time job used to leave me scrambling for information. Now, the chatbot has my back!"
-
-## Photo Gallery
-
-![Campus Photos](https://images.pexels.com/photos/18069696/pexels-photo-18069696/free-photo-of-an-artist-s-illustration-of-artificial-intelligence-ai-this-illustration-depicts-language-models-which-generate-text-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-project-l.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-![AI Chatbot](https://media.istockphoto.com/id/1438337463/photo/ai-chatbot-intelligent-digital-customer-service-application-concept-computer-mobile.jpg?s=612x612&w=0&k=20&c=nuxc3GAcQNpAQ4kalLpEQ-xOFmtcs--E7FdO34LltdY=)
-
 ## Meet Our Team
 
 ### Neeraj Nemiraj (Developer)
@@ -47,8 +32,27 @@ CampusFlow is your ultimate solution to navigate through the bustling college ca
 ![Praneeth](https://cdn.discordapp.com/attachments/1079319188524503041/1214891261593387018/Praneeth.jpeg?ex=65fac2a8&is=65e84da8&hm=dfea9a490c22149cab2f129dfd930e37b6599499ddbee60c38cb145b0855ddf3&) {: .rounded-circle }
 - *Role*: UI/UX Designer
 
+## Testimonials
+
+### Nipun Hegde (Student)
+![Nipun Hegde](https://cdn.discordapp.com/attachments/1079319188524503041/1214891259626528809/Nipun.jpeg?ex=65fac2a7&is=65e84da7&hm=cb087f3dd55167d2336a10643cc81103c7b8105365a9e93a10229fa84578d0d0&)
+"Goodbye, campus confusion! CampusFlow became my saving grace! It helped me find classrooms, access course materials, and understand local bus routes."
+
+### Karthik Vignesh (Student)
+![Karthik Vignesh](https://cdn.discordapp.com/attachments/1079319188524503041/1214891259278139392/Karthik.jpeg?ex=65fac2a7&is=65e84da7&hm=26c23f03cc5bc982f1b33a70435521ea73e18d9abe2d9fee16e6f8fe9d99b5e9&)
+"Juggling classes, clubs, and a part-time job used to leave me scrambling for information. Now, the chatbot has my back!"
+
+
+
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/CampusFlow.git
+
+
+2. Navigate to the project directory:
+   ```bash
+   cd CampusFlow
+   
+3. Open **index.html** in your preferred web browser.
