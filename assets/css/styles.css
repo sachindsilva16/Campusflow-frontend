@@ -1,10 +1,12 @@
-/*=============== GOOGLE FONTS ===============*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+/*=============== Google Fonts ===============*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap')
 
-/*=============== VARIABLES CSS ===============*/
+/*=============== CSS Variables ===============*/
 :root {
-  --header-height: 3.5rem;
 
+  
+  --header-height: 3.5rem;
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
   --first-color: hsl(228, 66%, 53%);
@@ -21,7 +23,8 @@
 
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
-  --body-font: 'Poppins', sans-serif;
+  /* --body-font:'Poppins', sans-serif; */
+  --body-font:font-family: "Inter", sans-serif;
   --biggest-font-size: 2.25rem;
   --h1-font-size: 1.5rem;
   --h2-font-size: 1.25rem;
@@ -40,6 +43,7 @@
 }
 
 /* Responsive typography */
+
 @media screen and (min-width: 1024px) {
   :root {
     --biggest-font-size: 4rem;
@@ -96,7 +100,7 @@ button {
   border: none;
 }
 
-/*=============== THEME ===============*/
+/*=============== Theme ===============*/
 
 
 /*========== Variables Dark theme ==========*/
@@ -108,7 +112,7 @@ button {
 ==========*/
 
 
-/*=============== REUSABLE CSS CLASSES ===============*/
+/*=============== Reusable CSS classes ===============*/
 .container {
   max-width: 1024px;
   margin-left: 1.5rem;
